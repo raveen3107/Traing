@@ -65,6 +65,11 @@ sorting Arrays to Functions:
    ?>
 		
 	->asort()--sorting arrays to the descinding order	
+	
+	
+	curd->is abasic function to call url
+	unlik:is used to delete a file system
+	unset :is used to remove value for array
 		
 	
 
